@@ -1,7 +1,7 @@
-[![MasterHead](https://www.searchenginejournal.com/wp-content/uploads/2020/02/how-hackers-may-be-hurting-your-seo-5e45656cd8c2e-1520x800.webp)](https.google.com)
+[![MasterHead](https://www.searchenginejournal.com/wp-content/uploads/2020/02/how-hackers-may-be-hurting-your-seo-5e45656cd8c2e-1520x800.webp)]
 <h1 align="center">Hi 👋, I'm Phani</h1>
 <h3 align="center">Weaving Dreams through Technology: Hacking, Web Dev, Blockchain, WordPress, and Journeying into Machine Learning.</h3>
-<img align="right" alt="Hacking" width="400" src="https://downloader.la/temp/[Downloader.la]-64e5cc4c93394.jpg"></img>
+<img align="right" alt="Hacking" width="400" src="https://5.imimg.com/data5/SELLER/Default/2022/12/SP/AF/QO/180125212/cms-web-development-service-500x500.png"></img>
 
 - 🔭 I’m currently working on **ChainPress: Empowering WordPress with Blockchain Brilliance**
 
