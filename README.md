@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Full Stack, CISSP etc,.**
 
-- 💬 Ask me about **Penetration testing, Wordpress, Google cloud, AWS, nginx, Apache etc.**
+- 💬 Ask me about **Open Source Projects, Penetration testing, Wordpress, Google cloud, AWS etc.**
 
 - 📫 How to reach me **phanibhushan.dm@gmail.com**
 
