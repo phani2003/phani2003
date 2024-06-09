@@ -3,11 +3,11 @@
 <h3 align="center">Weaving Dreams through Technology: Hacking, Web Dev, Blockchain, WordPress, and Journeying into Machine Learning.</h3>
 <img align="right" alt="Hacking" width="400" src="https://5.imimg.com/data5/SELLER/Default/2022/12/SP/AF/QO/180125212/cms-web-development-service-500x500.png"></img>
 
-- 🔭 I’m currently working on **ChainPress: Empowering WordPress with Blockchain Brilliance**
+- 🔭 I’m currently working on **FinFOLIO: A Investment tracking software**
 
-- 🌱 I’m currently learning **Full Stack, CISSP etc,.**
+- 🌱 I’m currently learning **Full Stack, Solidity, CISSP ,.**
 
-- 💬 Ask me about **Open Source Projects, Penetration testing, Wordpress, Google cloud, AWS etc.**
+- 💬 Ask me about **Open Source Projects, Penetration testing, Ethical Hacking, Wordpress, Google cloud, AWS etc.**
 
 - 📫 How to reach me **phanibhushan.dm@gmail.com**
 
